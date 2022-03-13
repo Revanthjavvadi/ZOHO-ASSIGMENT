@@ -17,14 +17,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hherzl/ContactManager.Mean.git"
+    "url": "https://github.com/Revanthjavvadi/Countact-Manager-App"
   },
   "author": "C. Herzl",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hherzl/ContactManager.Mean/issues"
+    "url": "https://github.com/Revanthjavvadi/Countact-Manager-App"
   },
-  "homepage": "https://github.com/hherzl/ContactManager.Mean#readme"
+  "homepage": "https://github.com/Revanthjavvadi/Countact-Manager-App"
 }
 var express = require("express");
 var bodyParser = require("body-parser");
